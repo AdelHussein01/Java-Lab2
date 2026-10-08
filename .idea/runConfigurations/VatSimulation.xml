@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="VatSimulation" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="VatSimulation" />
+    <module name="VatSimulation" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
